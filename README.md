@@ -4,10 +4,9 @@ Music tool using Spotify api
 Modules available:
 
 ✓ User Authentication
-✓ Create Playlist
+✓ Create Playlist with multiple information
 ✓ Get Playlist Information
 ✓ Modify Playlist
-✓ Recommend Music Tracks 
-✓ Create Dynamic Playlist link to share across all Music streaming platforms
+✓ Get details of the music parameters
 
 Look at the PDF for a detailed report.
